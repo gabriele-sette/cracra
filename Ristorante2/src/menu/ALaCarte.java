@@ -6,7 +6,7 @@ import alimenti.Piatto;
 
 public class ALaCarte extends Menu{
 
-	public ALaCarte(ArrayList<Piatto> alimenti) {
+	public ALaCarte() {
 		super();
 		costo=0;
 	}
